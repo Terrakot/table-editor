@@ -1,0 +1,3 @@
+*.pyc
+dynamictables/.idea/
+dynamictables/db.sqlite3
